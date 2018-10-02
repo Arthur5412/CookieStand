@@ -88,6 +88,29 @@ html, body {
   
   .mainContainers h1,h2,h3 {
     font-family: 'Oswald', sans-serif;
+    font-weight: 100<!DOCTYPE html>
+    <html>
+    <head>
+      <title>Salmon Cookies</title>
+      <link rel="stylesheet" href="style.css">
+      <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
+    </head>
+    <body>
+      <body>
+        <div id="topBar">
+          <div id="topInfo">
+            <h1 id="headerName"><a href="#home">Salmon Cookies</a></h1>
+            <a name="home"></a>
+          </div>
+          <div id="topNav">
+            <ul>
+              <li><a href="#contact">Contact Us</a></li>
+              <li><a href="#history">History</a></li>
+              <li><a href="#locations">Locations</a></li>
+              <li><a href="#menu">Menu</a></li>
+              <li><a href="sales.html">Sales</a></li>
+            </ul>
+          </div>
   }
   
   .mainContainers p {
